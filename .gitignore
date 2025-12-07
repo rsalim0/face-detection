@@ -1,0 +1,7 @@
+.venv/
+.venv310/
+dataset/
+models/haarcascade_frontalface_default.xml
+models/label_map.txt
+models/trained_lbph_face_recognizer_model
+.git
